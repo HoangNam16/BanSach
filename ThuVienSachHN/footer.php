@@ -1,0 +1,24 @@
+<footer>
+	<div class="container">
+		<div class="wrap-footer">
+			<div class="row">
+				<div class="col-md-3 col-footer footer-1">
+					<h5>THƯ VIỆN SÁCH HN</h5>
+					<p>Thư viện sách HN với rất nhiều đầu sách hấp dẫn cho bạn đọc lựa chọn.</p>
+				</div>
+			</div>
+			<p><span class="glyphicon glyphicon-home"></span> Hoài Đức , Hà Nội, Việt Nam.</p>
+
+		</div>
+	</div>
+	<div class="copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					Copyright © 2023
+
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
