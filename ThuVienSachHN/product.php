@@ -41,7 +41,7 @@ include "navigation.php"
 			$sl = 1;
 		}
 		$_SESSION['cart'][$idsp] = $sl;
-		echo "<script>window.location.replace('http://localhost/BanSach/BanSachOnline/cart.php'); </script>";
+		echo "<script>window.location.replace('http://localhost/BanSach/ThuVienSachHN/cart.php'); </script>";
 	}
 
 	?>
